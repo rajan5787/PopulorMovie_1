@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0099cc"
+    tools:context="com.example.rajan.populormovie_1.activity.SplashActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/app_name"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="50sp"
+        android:textColor="@color/colorPrimary"
+        android:shadowColor="@color/colorPrimary"/>
+
+</LinearLayout>
